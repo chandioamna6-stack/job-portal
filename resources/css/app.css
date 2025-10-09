@@ -1,0 +1,87 @@
+/* resources/css/app.css */
+
+/* Import Tailwind layers */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ================= Custom Styles ================= */
+
+/* Buttons */
+.btn {
+  @apply inline-block px-6 py-2 rounded-lg font-medium transition;
+}
+
+.btn-primary {
+  @apply bg-blue-600 text-white hover:bg-blue-700;
+}
+
+.btn-secondary {
+  @apply bg-gray-200 text-gray-700 hover:bg-gray-300;
+}
+
+.btn-accent {
+  @apply bg-green-600 text-white hover:bg-green-700;
+}
+
+/* Navigation */
+.nav-link {
+  @apply text-gray-700 hover:text-blue-600 transition;
+}
+
+/* Hero Section */
+.hero-title {
+  @apply text-4xl md:text-5xl font-extrabold text-gray-900 leading-tight;
+}
+
+.hero-subtitle {
+  @apply mt-4 text-lg text-gray-600 max-w-2xl mx-auto;
+}
+
+/* Search Bar */
+.search-input {
+  @apply border rounded-lg py-2 px-4 w-64;
+}
+
+.search-dropdown {
+  @apply border rounded-lg py-2 px-3;
+}
+
+.search-btn {
+  @apply bg-blue-600 text-white px-5 py-2 rounded-lg flex items-center gap-2 hover:bg-blue-700;
+}
+
+/* Section Headers */
+.section-title {
+  @apply text-3xl font-bold text-gray-900;
+}
+
+.section-subtitle {
+  @apply text-gray-600 mt-2;
+}
+
+/* Job Cards */
+.job-card {
+  @apply border rounded-lg p-6 shadow hover:shadow-lg transition bg-white;
+}
+
+.job-title {
+  @apply text-xl font-semibold text-gray-900;
+}
+
+.job-company {
+  @apply text-gray-500 text-sm;
+}
+
+.job-details {
+  @apply mt-3 space-y-1 text-sm text-gray-600;
+}
+
+.job-salary {
+  @apply font-semibold text-blue-600;
+}
+
+/* Footer */
+footer {
+  @apply bg-gray-900 text-white text-center py-6;
+}
