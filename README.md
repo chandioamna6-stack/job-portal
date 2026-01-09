@@ -75,7 +75,7 @@ git clone https://github.com/chandioamna6-stack/job-portal.git
 # Navigate to the project folder
 cd JobPortal
 
-# Install PHP dependencies<img width="1343" height="896" alt="Screenshot 2026-01-09 215326" src="https://github.com/user-attachments/assets/cf02a5bb-a216-4de4-88aa-8e5f013ae730" />
+
 
 composer install
 
