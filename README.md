@@ -13,7 +13,13 @@
 
 # Job Portal
 
-A **Laravel-based Job Portal** web application allowing job seekers to find jobs and employers to post them. Includes full user authentication, job applications, admin panel, messaging, notifications, payments, and resume uploads.
+A **Laravel-based Job Portal** web application allowing job seekers to find jobs and employers to post them. Includes full user authentication, job applications, admin panel, messaging, notifications, and more.
+
+<p align="center">
+  <a href="https://github.com/user-attachments/assets/fc50da27-7fec-4df0-a2cc-f55ba58503d7" target="_blank">
+    <strong>vedio demo</strong>
+  </a>
+</p>
 
 ---
 
@@ -97,3 +103,4 @@ npm run dev
 # Start the local server
 php artisan serve
 Open http://localhost:8000 in your browser
+```
