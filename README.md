@@ -33,17 +33,39 @@ A **Laravel-based Job Portal** web application allowing job seekers to find jobs
 
 ## 📸 Application Preview
 
-<img width="1343" height="896" alt="Screenshot 2026-01-09 215326" src="https://github.com/user-attachments/assets/1e635b48-289b-451f-9365-9228127b3722" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1e635b48-289b-451f-9365-9228127b3722" width="90%" alt="Login Page" />
+</p>
 
-<img width="1343" height="870" alt="Screenshot 2026-01-09 215725" src="https://github.com/user-attachments/assets/485d52ee-e045-404b-bbaf-65985aa7dcd0" />
+<br><br>
 
-<img width="1343" height="888" alt="Screenshot 2026-01-09 215411" src="https://github.com/user-attachments/assets/6ed02116-9c2b-48f0-aae5-787a887bd770" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/485d52ee-e045-404b-bbaf-65985aa7dcd0" width="90%" alt="Dashboard" />
+</p>
 
-<img width="1347" height="876" alt="Screenshot 2026-01-09 215532" src="https://github.com/user-attachments/assets/bb1b9e47-4bf6-4d0f-969a-6cdf6acd0c17" />
+<br><br>
 
-<img width="1353" height="487" alt="Screenshot 2026-01-09 215628" src="https://github.com/user-attachments/assets/d01bb147-ced5-4c8d-97ea-7b2a91bcddd3" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6ed02116-9c2b-48f0-aae5-787a887bd770" width="90%" alt="Job Listings" />
+</p>
 
-<img width="1321" height="871" alt="Screenshot 2026-01-09 215801" src="https://github.com/user-attachments/assets/86e1f199-54f2-4cc5-8d6c-dacfae6d5dd6" />
+<br><br>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/bb1b9e47-4bf6-4d0f-969a-6cdf6acd0c17" width="90%" alt="Messaging System" />
+</p>
+
+<br><br>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d01bb147-ced5-4c8d-97ea-7b2a91bcddd3" width="90%" alt="Admin Panel" />
+</p>
+
+<br><br>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/86e1f199-54f2-4cc5-8d6c-dacfae6d5dd6" width="90%" alt="Applications" />
+</p>
 
 
 ## Project Phases & Features
